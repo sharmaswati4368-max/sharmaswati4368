@@ -26,5 +26,4 @@
 ## 📫 Connect with Me  
 - GitHub: [https://github.com/sharmaswati4368-max](https://github.com/sharmaswati4368-max)
 - Email:  sharmaswati4368@gmail.com
-- Email: your email here# sharmaswati4368
-👋Hi, I'm Swanti | Aspiring Data Analyst
+
